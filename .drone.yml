@@ -9,4 +9,4 @@ steps:
   when:
     event: push
 node:
-    instance: type:farm
+    instance: farm
